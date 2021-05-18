@@ -1,0 +1,5 @@
+I had to develop an emotion recognition deep learning model for a client. I used the public version of RAF (Realworld Affective Faces) dataset. Using tensorflow and keras I created a CNN model that achieved an accuracy closer to the state of the art accuracy though it was only trained on the subset of the dataset (the original dataset isn't public). I also used data augmentation that helped the model generalize well and work with video frames. The particular project involved detecting faces from the image, Recognizing the facial emotion of the person and writing the output emotion back on to the image with bounded boxes. The project results were highly appreciated by the client. 
+
+Title: Facial Emotion Recognizer
+Tech Stack : Deep Learning, Computer Vision, Python, Tensorflow, Keras, OpenCV, Numpy, SeaBorn.
+Year : 2021

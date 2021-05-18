@@ -1,0 +1,6 @@
+It was a research based project that involved autism detection given human brain images. The dataset contained nifti files. Nifti files is medical imaging file extension that contains human brain images captured by rotating images at a 3d axis around the brain. Each nifti file when uncompressed expands to 256 images (8x8x8). I developed a deep learning model with tensorflow and keras that reached almost the state of the art accuracy. It also involved pre processing, data loading and evaluation of the nifit files. The client appreciated my work and expressed his gratitude.
+
+Title : Autism Detection Deep Learning Model
+Tech Stack : Deep Learning, Computer Vision, Python, Tensorflow, Keras, Numpy, Seaborn.
+Year : 2021
+

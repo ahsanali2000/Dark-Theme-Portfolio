@@ -1,0 +1,5 @@
+I developed a creative note taking android app that allowed you to take Textual notes, Image Notes, Audio Notes, Documents and To Do Lists. The app had an amazing organization which automatically organizes all the notes into individual custom calendar widget. I also coded a custom note editor which allowed you to take text, image and audio notes in one custom note packet. This required the data to be displayed, stored and managed in a particular format I designed. Such note packet didn't exist in any of the competitor apps and was one of the core features of our app. It was a personal project made along with one of my class-mate (Ali Asad). I developed the UI, graphics, project architecture, wire frames along with numerous other algorithms. Ali Asad took care of efficient data storage and databases. He made sure the data was red and written stupendously. The amazing design of the app left everyone astounded. Itwas released on google play store and got thousands of download with a 4.8 star rating. 
+
+Title: Android Note Taking App
+Tech Stack : Android App Development, Java, XML, Adobe Illustrator, Room Persistance.
+Year : 2019

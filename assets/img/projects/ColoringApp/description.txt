@@ -1,0 +1,7 @@
+I developed an android application project that involved computer vision and image processing techniques. I had to develop an android coloring app which would allow users to color provided graphics in the app with just a tap of their fingers. The particular client had hired other developers in the past but they didn't provide him the required quality and speed. When coloring the images there where white spots left out around the edges and corners. No one was able to solve his problem until he hired me. I being a computer vision expert took charge of the whole project and pointed out the mistakes in the current approach. As i have worked with adobe illustrator I guided the graphic designer to create new coloring graphics in a specific format and details that would be best for our project. Once that was done, I created a coloring engine in java that implemented a custom implementation of flood fill to provide quality coloring to the coloring graphics. The buyer was amazed to find out that i had completely solved the white spots issue at the edges and boosted the speed by 3-4 times. I also developed an android app along with the UI in native java that made use of my coloring engine to let users color the graphics. It was released to play store ultimately and got a rating of 4.6 with thousands of downloads.
+
+Title: Android Coloring app
+Tech Stack : Android Application Development, Computer Vision, Java, Data Structures, Analysis of Algorithms, XML.
+Year : 2021
+Link: https://play.google.com/store/apps/details?id=sam.couleur
+
